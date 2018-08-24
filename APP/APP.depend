@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1493284626 source:/home/pi/Public/SPC software/APP/main.cpp
+	<iostream>
+	"appspc.h"
+
+1493187057 /home/pi/Public/SPC software/APP/appspc.h
+	"../SPC/libspc.h"
+
+1493022916 /home/pi/Public/SPC software/LibSPC/libspc.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<pthread.h>
+	<sys/signal.h>
+	<signal.h>
+	<bits/siginfo.h>
+
+1493288228 /home/pi/Public/SPC software/SPC/libspc.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/ioctl.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<pthread.h>
+	<sys/signal.h>
+	<signal.h>
+	<bits/siginfo.h>
+	<dirent.h>
+
